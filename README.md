@@ -1,7 +1,7 @@
 # Mastering-CP
 
 **Summer Of Code - Project ID: 74 - Mastering CP**  
-**Mentors:** Adit, 
+**Mentors:** Adit, Vijay
 
 ---
 
